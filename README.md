@@ -18,5 +18,5 @@ There are 5 files:
 This repo is made by beginners for education.
 
 
-### Contacts
-[![telegram](/logo)](https://t.me/Opisthorch1s)
+### Contacts:
+[![telegram](/Logo.png)](https://t.me/Opisthorch1s)
